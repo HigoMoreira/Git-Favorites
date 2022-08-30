@@ -18,7 +18,7 @@ princípio da Imutabilidade, localStorage, Try/Catch/Throw, Assincronísmos com 
 .forEach(), .append(), funções de alta ordem para arrays como .filter() e .find(), e muito mais.
 
 Disponibilizo abaixo mais algumas imagens da aplicação.
-E aqui você pode acessar também o link do deploy: https://higomoreira.github.io/Git-Favorites/
+E aqui você pode acessar também o link do deploy: https://higomoreiraq.github.io/Git-Favorites/
 
 
 ------------------------ English ------------------------
@@ -34,7 +34,7 @@ principle of Immutability, localStorage, Try/Catch/Throw, Asynchronisms with .fe
 .forEach(), .append(), higher-order functions for arrays like .filter() and .find(), and much more.
 
 Below are some more images of the application.
-And here you can also access the deploy link: https://higomoreira.github.io/Git-Favorites/
+And here you can also access the deploy link: https://higomoreiraq.github.io/Git-Favorites/
 
 
 ![image](https://user-images.githubusercontent.com/107502907/183736646-410f846c-9952-422f-8379-1efc1f419bed.png)
